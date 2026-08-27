@@ -6,12 +6,13 @@ The experiments addresses the privacy implications of applying XAI to ML models 
 ## Repositoy Structure
 ```
 Peeking-inside-the-Grid/
-├──eval  # evaluation of the results
-├──model_output # results and target model
+├──eval		# evaluation of the results
+├──model_output		# results and target model
 ├──utils
-├──MIA_RF_Smart Grid Stability.ipynb # Experiment: Membership Inference Attack utilizing XAI
-├──MInvA_CNN_Smart Grid Real-Time Load Monitoring Dataset.ipynb # Experiment: Model Inversion Attack utilizing XAI
+├──MIA_RF_Smart Grid Stability.ipynb	# Experiment: Membership Inference Attack utilizing XAI
+├──MInvA_CNN_Smart Grid Real-Time Load Monitoring Dataset.ipynb		# Experiment: Model Inversion Attack utilizing XAI
 ├──README.md
+├──requirements.txt
 
 ```
 
